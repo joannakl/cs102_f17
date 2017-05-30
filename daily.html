@@ -8,6 +8,10 @@ days:
     - "05"
 ---
 
+
+{{ site.url }} <br>
+{{ site.baseurl }} <br> 
+
 <div class="titles">
     <div class="column_date">
         Date
@@ -21,8 +25,6 @@ days:
         Readings, Assignments, Homework
     </div>
 </div>  
-{{ site.url }} <br>
-{{ site.baseurl }} <br> 
 
 {% for i in page.days reversed %}
     {% assign file_name = "daily/" | append:  i  | append: ".html" %}
