@@ -10,7 +10,10 @@ kramdown:
   entity_output: numeric
   smart_quotes: apos,apos,quot,quot
 
-plugins_dir: ./_plugins
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
 
 
 course_number: "CSCI-UA 102"
