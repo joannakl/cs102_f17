@@ -1,0 +1,41 @@
+---
+layout: default 
+---
+
+<div class="titles">
+    <div class="column_date">
+        Date
+    </div>
+    
+    <div class="column_materials">
+        Material Covered, Notes, Handouts and Links 
+    </div>
+    
+    <div class="column_assign">
+        Readings, Assignments, Homework
+    </div>
+</div>  
+
+{% assign array = "01,02,03,04,05,06,07,08,09,10" | split: "," %}
+
+
+{% for i in array %}
+    {% assign file_name = "daily/" | append:  i  | append: ".html" %}
+    {% assign full_file_name = "_includes/" | append: file_name %}
+    {% capture fileExists %}{% file_exists {{full_file_name}} %}{% endcapture %}
+    
+    {% if fileExists=="true" %}
+        {% include   {{ file_name }} %}
+    {% endif %}
+    
+     
+{% endfor %}
+
+
+
+<br>
+<br>
+        
+        
+        
+        
