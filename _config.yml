@@ -2,8 +2,8 @@
 title: CSCI-UA 102 (Data Structures) 
 description: "Course website for CSCI-UA 102 (Data Structures) course." 
 
-baseurl: "/cs102_f17" # the subpath of your site, e.g. /blog
-url: "https://joannakl.github.io/cs102_f17" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/cs102_f17" # the subpath of your site, e.g. /blog
+#url: "https://joannakl.github.io/cs102_f17" # the base hostname & protocol for your site, e.g. http://example.com
 
 markdown: kramdown
 kramdown:
