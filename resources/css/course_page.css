@@ -162,7 +162,6 @@ td {
   background-color: #d9e0d1;
   border-top: 3px solid white;
   overflow: hidden;
-  border-top: 3px solid pink;
 }
 .lecture2 {
   clear: left;
@@ -171,7 +170,6 @@ td {
   background-color: #d1e0e0;
   border-top: 3px solid white;
   overflow: hidden;
-  border-top: 3px solid blue;
 }
 .recitation {
   clear: left;
@@ -210,15 +208,12 @@ td {
 }
 .column_date {
   vertical-align: top;
-  border-top: 3px solid black;
 }
 .column_materials {
   vertical-align: top;
-  border-top: 3px solid black;
 }
 .column_assign {
   vertical-align: top;
-  border-top: 3px solid black;
 }
 @media (max-width: 700px) {
   .column_date {
