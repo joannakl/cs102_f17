@@ -152,6 +152,7 @@ main .name {
 }
 td {
   padding: 1em;
+  vertical-align: top;
 }
 /**************/
 .lecture1 {
