@@ -162,6 +162,7 @@ td {
   background-color: #d9e0d1;
   border-top: 3px solid white;
   overflow: hidden;
+  border-top: 3px solid pink;
 }
 .lecture2 {
   clear: left;
@@ -170,6 +171,7 @@ td {
   background-color: #d1e0e0;
   border-top: 3px solid white;
   overflow: hidden;
+  border-top: 3px solid blue;
 }
 .recitation {
   clear: left;
@@ -184,7 +186,7 @@ td {
   padding-bottom: 15px;
   padding-top: 9px;
   background-color: #588d8d;
-  color: hhsl(180, 23%, 95%);
+  color: #eff5f5;
   font-weight: bold;
   border-top: 3px solid white;
   overflow: hidden;
@@ -208,9 +210,14 @@ td {
 }
 .column_date {
   vertical-align: middle;
+  border-top: 3px solid black;
 }
 .column_materials {
   vertical-align: top;
+  border-top: 3px solid black;
+}
+.column_assign {
+  border-top: 3px solid black;
 }
 @media (max-width: 700px) {
   .column_date {
@@ -264,20 +271,20 @@ td {
 /******************************************/
 footer {
   clear: both;
-  margins: 0;
+  margin: 0;
   padding: 0;
   background: #91baba;
   font-size: 0.8em;
   overflow: hidden;
 }
 .footerlinks {
-  margins: 0;
+  margin: 0;
   padding: 0.8em 0 0.8em 0.8em;
   float: left;
   width: 56%;
 }
 .license {
-  margins: 0;
+  margin: 0;
   padding: 0;
   float: right;
   width: 38%;
