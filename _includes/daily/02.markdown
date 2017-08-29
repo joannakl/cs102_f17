@@ -1,15 +1,16 @@
 
-<div class="lecture2">
-    <div class="column_date">
+<div class="recitation">
+<div class="column_date">
         
         Rec # 1 <br> 
         Tue, Sep. 6 <br>
         sec. 6 only  
         
           
-    </div>
+</div>
     
-    <div class="column_materials">
+<div class="column_recitation">
+<p markdown="block">
         
 Warm-up activity. 
 
@@ -18,22 +19,17 @@ Once you complete the activity, download it in PDF format:
 `File -> Download As ... -> PDF Document (pdf)` 
 
 The completed PDF file should be submitted to Gradescope for grading (only one person from your group needs to submit the activity; you will have a chance to enter the names of all group members once you upload the file). 
+
 Here are quick steps for uploading to Gradescope:
+
 * Go to [gradescope.com](http://gradescope.com) and log in with you NYU email address (the version that contains your NetID).
 * On your Courses page, select the course for which you’re submitting work.
 * On your Courses page, you will see all of your current assignments. Click on the assignment you are turning in.
 * Click Submit PDF > Click Select PDF > locate the correct file on your computer > Click Upload PDF
 * Finally, add the group members to the submission: on the right hand side under the name of the person who submitted the assignment, you should see "Add Group Members" link. Use it to add up to 3 more student names to the submission. (If you skip this step the other group members won't get credit for their work.)
         
-        
-    </div>
-    
-    <div class="column_assign">
-        
-        <br>
-        
-        
-        
-    </div>
+
+</p>        
+</div>
     
 </div>
