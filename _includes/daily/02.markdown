@@ -1,24 +1,24 @@
 
-<div class="lecture1">
+<div class="lecture2">
     <div class="column_date">
-        
-        Class # 0 <br> 
+        <!--
+        Class # 2 <br> 
         Mon, Feb. 23 
-        
-        
+        -->
+          
     </div>
     
     <div class="column_materials">
         
-        
-        
+        Advanced Java topics: inheritance, polymorphism, 
+        <code>super</code> keyword. 
         
         
     </div>
     
     <div class="column_assign">
         
-        
+        Project 1 posted. <br>
         
         
         

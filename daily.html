@@ -2,7 +2,7 @@
 layout: default 
 days: 
     - "01"
-  #  - "02"
+    - "02"
   #  - "03"
   #  - "04" 
   #  - "05"
@@ -24,13 +24,30 @@ days:
         Readings, Assignments, Homework
     </div>
 </div>  
-
+<!--
 {% for i in page.days reversed %}
     {% assign file_name = "daily/" | append:  i  | append: ".html" %}
     {% include   {{ file_name }} %}
      
 {% endfor %}
+-->
 
+{% comment %}
+{% for i in page.days reversed %}
+    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
+    {% include   {{ file_name }} %}
+     
+{% endfor %}
+
+{% endcomment %}
+
+
+{% for i in page.days reversed %}
+    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
+    {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
+    {{ my_include | markdownify }}
+     
+{% endfor %}
 
 
 <br>
