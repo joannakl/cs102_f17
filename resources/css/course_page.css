@@ -212,6 +212,9 @@ td {
 .column_materials {
   vertical-align: top;
 }
+.column_recitation {
+  vertical-align: top;
+}
 .column_assign {
   vertical-align: top;
 }
@@ -221,6 +224,10 @@ td {
     font-weight: bold;
   }
   .column_materials {
+    border-bottom: 2px dotted white;
+    padding-top: 3px;
+  }
+  .column_recitation {
     border-bottom: 2px dotted white;
     padding-top: 3px;
   }
@@ -255,6 +262,11 @@ td {
   }
   .column_materials {
     width: 38%;
+    margin-right: 2%;
+    display: inline-block;
+  }
+  .column_recitation {
+    width: 76%;
     margin-right: 2%;
     display: inline-block;
   }
