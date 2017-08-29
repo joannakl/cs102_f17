@@ -16,9 +16,11 @@ layout: default
    
 <p class="hang" markdown="1"><span class="emph">Office hours:</span> <br>
 <span class="name">Joanna:</span> 
-{{ site.instructor_office_hours }} ({{ site.instructor_office_hours_location }})
-.<br>
-<span class="name">{{site.recitation_instructor_name}}:</span> {{site.recitation_office_hours}} ({{site.recitation_office_hours_location}}).  
+{{ site.instructor_office_hours }} ({{ site.instructor_office_hours_location }}).
+<br>
+<span class="name">{{site.recitation_instructor1_name}}:</span> {{site.recitation1_office_hours}} ({{site.recitation1_office_hours_location}}).  
+<br>
+<span class="name">{{site.recitation_instructor2_name}}:</span> {{site.recitation2_office_hours}} ({{site.recitation2_office_hours_location}}).  
 </p>
 
 

@@ -1,29 +1,36 @@
 
-<div class="change">
-    <div class="column_date">
-        
-        
-        
-        
-    </div>
-    
-    <div class="column_materials">
-        
-        
-        Last chance to drop the course with a W. <br>
-        Last chance to drop the course with a W. <br>
-        Last chance to drop the course with a W. <br>
-         
-        
-        
-    </div>
-    
-    <div class="column_assign">
-        
-        
-        
-        
-        
-    </div>
+<div class="lecture1">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+Class # 3 <br> 
+Tue, Sep. 12 (3)<br> 
+Wed, Sep. 13 (5)
+
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
     
 </div>

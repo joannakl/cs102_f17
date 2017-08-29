@@ -1,27 +1,28 @@
 
+<div class="recitation">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
 <div class="important">
-    <div class="column_date">
-        
-        
-        
-        
-    </div>
-    
-    <div class="column_materials">
-        
-        
-        Midterm exam. <br>
-        Covers chapters 1 - 7. 
-        
-        
-    </div>
-    
-    <div class="column_assign">
-        
-        
-        
-        
-        
-    </div>
-    
+-->
+<div class="column_date">
+
+Recitation # 1 <br> 
+Mon, Sep. 11 (6) <br>
+Recitaton # 2 <br>
+Tue, Sep. 12 
+
+
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
 </div>
