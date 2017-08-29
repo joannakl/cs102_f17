@@ -4,8 +4,7 @@
 <p markdown="block">
         
 Rec # 1 <br> 
-Tue, Sep. 6 <br>
-sec. 6 only  
+Tue, Sep. 6 (sec. 6)
         
 </p>          
 </div>

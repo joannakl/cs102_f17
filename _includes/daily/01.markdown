@@ -4,8 +4,8 @@
 <p markdown="block">
 
 Class # 1 <br> 
-Tue, Sep. 5 (3)<br> 
-Wed, Sep. 6 (5)
+Tue, Sep. 5 (sec. 3)<br> 
+Wed, Sep. 6 (sec. 5)
 
 </p>
 </div>

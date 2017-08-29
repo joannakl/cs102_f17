@@ -4,8 +4,8 @@
 <div class="column_date">
 
 Class # 2 <br> 
-Thu, Sep. 7 (3)<br>
-Mon, Sep. 11 (5)  
+Thu, Sep. 7 (sec. 3)<br>
+Mon, Sep. 11 (sec. 5)  
 
 
 </div>
