@@ -1,18 +1,19 @@
 
 <div class="recitation">
 <div class="column_date">
+<p markdown="block">
         
-        Rec # 1 <br> 
-        Tue, Sep. 6 <br>
-        sec. 6 only  
+Rec # 1 <br> 
+Tue, Sep. 6 <br>
+sec. 6 only  
         
-          
+</p>          
 </div>
     
 <div class="column_recitation">
 <p markdown="block">
         
-Warm-up activity. 
+__Warm-up activity.__ 
 
 
 Once you complete the activity, download it in PDF format: 
