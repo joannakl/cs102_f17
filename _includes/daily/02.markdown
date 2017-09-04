@@ -4,7 +4,7 @@
 <p markdown="block">
         
 Rec # 1 <br> 
-Tue, Sep. 6 (sec. 6)
+Tue, Sep. 5 (sec. 6)
         
 </p>          
 </div>
@@ -12,7 +12,8 @@ Tue, Sep. 6 (sec. 6)
 <div class="column_recitation">
 <p markdown="block">
         
-__Warm-up activity.__ 
+<!-- [__Warm-up activity.__](https://goo.gl/S7FYbq) -->
+[__Warm-up activity.__]()  
 
 
 Once you complete the activity, download it in PDF format: 
