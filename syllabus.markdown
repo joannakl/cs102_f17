@@ -40,11 +40,10 @@ Your grade will be based on:
 
 * exams (65%): one midterm exam (25%) and the final (40%),  
 * programming projects (30% total) 
-* recitaion activities, quizzes, other homeworks (5% total)
+* recitaion activities, quizzes  (5% total)
     * activities will be completed during recitations 
     (usually in small groups) - you cannot get credit for these unless you are in the recitation
     * pop-quizzes will be given during lectures and recitations, **not announced** - no make-up quizzes will be given  
-    * short (usually non-programming) homework assignments might be given throughout the semester 
 
 Grades will be determined using the following scale:
 
@@ -64,18 +63,18 @@ The grade of *Incomplete* is reserved for students who, for legitimate and docum
 # Recitations
 ---
 
-Recitations for the course are used to answer your questions regarding the material and posted homeworks/projects.
+Recitations for the course are used to answer your questions regarding the material and posted projects.
 
 During recitations you will also get some hands on practice by participating in (usually group) activities.
-It may be a good idea to bring a laptop to recitations (although it is not a requirement since you will only need one laptop per group). 
+It may be a good idea to bring a laptop to recitations 
+(although it is not a requirement since you will only need one laptop per group). 
 
 
 # Assignments
 --- 
 
-There will be three different types of assignments in this course: 
-1. programming projects, 
-2. short (usually non-programming) homeworks, and 
+There will be two different types of assignments in this course: 
+1. programming projects, and 
 3. do not hand-in homeworks (DNHI).
 		
 **Programming projects (30% of your final grade)** will be given on 
@@ -100,12 +99,6 @@ compile or crashes when it is run, you will get a grade of zero on it.
 As you are working on your code, make sure that it compiles and does what 
 you expect it to do. Test frequently, not only after you write hundreds of 
 lines of code.
-        
-**Homeworks (part of the 5% of your grade together with quizzes and 
-activities)** might be given several times during the semester. In general, 
-they will be due four-five days after they are assigned. <br> 
-No late homeworks will be accepted. <br>
-*No homeworks can be accepted after the last day of classes.*
         
 **Do not hand-in homeworks (DNHI)** will be given to encourage you to 
 practice the material that we discuss in class. The problem sets  will be 
