@@ -14,7 +14,11 @@ Wed, Sep. 6 (sec. 5)
 <p markdown="block">
 
 Introduction to the class: syllabus. <br>
-Review of advanced Java topics. 
+Review of advanced Java topics. <br><br>
+
+[Code conventions for cs102](notes/CodeConventions.pdf) <br><br>
+
+[Lecture 1 notes](notes/lecture01_Intro.pdf) <br>
 
 </p>
 </div>
