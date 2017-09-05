@@ -12,8 +12,7 @@ Tue, Sep. 5 (sec. 6)
 <div class="column_recitation">
 <p markdown="block">
         
-<!-- [__Warm-up activity.__](https://goo.gl/S7FYbq) -->
-[__Warm-up activity.__]()  
+[__Warm-up activity.__](https://goo.gl/S7FYbq) 
 
 
 Once you complete the activity, download it in PDF format: 
@@ -29,6 +28,10 @@ Here are quick steps for uploading to Gradescope:
 * _Click Submit PDF > Click Select PDF > locate the correct file on your computer > Click Upload PDF_
 * (Only if activity has multiple pars) Tell us which pages correspond to each part/question on the assignment. You will see a list of all the assigned parts/questions, and images of all your document pages. For each question click the page(s) that contains your answer.
 * Finally, add the group members to the submission: on the right hand side under the name of the person who submitted the assignment, you should see "Add Group Members" link. Use it to add up to 3 more student names to the submission. (If you skip this step the other group members won't get credit for their work.)
+
+(If you did not receive email from Gradescope with an invitation to join
+the class, or if you happened to delete that email, you can join the class 
+by creating an account and using 9R84E9 as a class code.)
         
 
 </p>        
