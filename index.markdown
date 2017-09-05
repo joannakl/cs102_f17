@@ -64,7 +64,7 @@ programs from the very first project.
 # Important Dates
 --- 
 
-<p class="hang" markdown="1"> **Midterm Exam (tentative):** <br>
+<p class="hang" markdown="1"> **Midterm Exam (these dates may change is there are any schedule changes):** <br>
 {{ site.midterm_exam_date }} 
 </p> 
 <p class="hang" markdown="1"> **Final Exam:**

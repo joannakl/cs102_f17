@@ -39,8 +39,9 @@ recitation2_office_hours_location: "Room 318, 60 Fifth Ave."
 tutor_location: "406 WWH"
 tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
 
-midterm_exam_date: "sec 3: TBD <br>sec 5: TBD "
-final_exam_date: "sec 3: TBD <br>sec 5: TBD "
+midterm_exam_date: "sec 3: Tuesday, Oct. 17 <br>sec 5: Tuesday, Oct. 17 (in during recitation)  "
+final_exam_date: "sec 3: Tuesday, Dec. 19, 10:00AM-11:50AM 
+<br>sec 5: Monday, Dec. 18, 2:00PM-3:50PM "
 final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
 
 piazza_site: https://piazza.com/nyu/fall2017/csci102
