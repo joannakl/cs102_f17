@@ -18,7 +18,10 @@ Review of advanced Java topics. <br><br>
 
 [Code conventions for cs102](notes/CodeConventions.pdf) <br><br>
 
-[Lecture 1 notes](notes/lecture01_Intro.pdf) <br>
+[Lecture 1 notes](notes/lecture01_Intro.pdf) <br><br>
+
+[PythonTutor visualization of the code examples we did in class](https://goo.gl/acmPb1) <br>
+
 
 </p>
 </div>
