@@ -10,9 +10,9 @@
 <div class="column_date">
 
 Recitation # 1 <br> 
-Mon, Sep. 11 (sec. 6) <br>
+Mon, Sep. 11 (sec. 4) <br>
 Recitaton # 2 <br>
-Tue, Sep. 12 (sec. 4)
+Tue, Sep. 12 (sec. 6)
 
 
 </div>
