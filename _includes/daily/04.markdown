@@ -20,7 +20,14 @@ Tue, Sep. 12 (sec. 6)
 <div class="column_recitation">
 <p markdown="block">
 
+Project 1 discussion. <br><br>
 
+Download source code fore Java [OpenJDK 8](code/openjdk_8.zip). <br><br>
+
+_Finding code responsible for behavior_ activity. 
+<!-- 
+[_Finding code responsible for behavior_ activity](https://goo.gl/uMqUhE) 
+-->
 
 </p>
 </div>
