@@ -20,6 +20,15 @@ Wed, Sep. 13 (sec. 5)
 <div class="column_materials">
 <p markdown="block">
 
+Review of file file IO. <br>
+Review (or introduction) to command line arguments and how 
+to use them in your program. <br> <br>
+
+Code samples: 
+* [review_fileIO.zip](code/review_fileIO.zip)
+* [capitals_list](code/capitals_list) - an input file for one
+of the programs in the above zip file 
+* [lecture01.zip](code/lecture01.zip)
 
 
 </p>
