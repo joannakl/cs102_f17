@@ -1,0 +1,33 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+Class # 4 <br> 
+Thu, Sep. 14 (sec. 3)<br>
+Mon, Sep. 18 (sec. 5)  
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Project 1 Q&A <br><br>
+Use of `super` keyword, inheritance, constructors accessible from subclasses (but not inherited), overriding methods of a superclass 
+(how to access overriden methods), polymorphism - different types of 
+reference and object (why do we do it).<br><br>
+Starting with _Race_ code examples (see [lecture01.zip](code/lecture01.zip) ). 
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Start reading chapter 3 in GTG. 
+
+</p>
+</div>
+    
+</div>

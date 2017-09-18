@@ -1,0 +1,40 @@
+
+<div class="lecture1">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+Class # 3 <br> 
+Tue, Sep. 19 (sec. 3)<br> 
+Wed, Sep. 20 (sec. 5)
+
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Finish with _Race_ examples, see [lecture01.zip](code/lecture01.zip). <br><br>
+
+<!--
+Start with fundamental data structures: lists. 
+-->
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+</p>
+</div>
+    
+</div>

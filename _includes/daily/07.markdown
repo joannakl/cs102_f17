@@ -9,10 +9,10 @@
 -->
 <div class="column_date">
 
-Recitation # 1 <br> 
-Mon, Sep. 11 (sec. 4) <br>
-Recitaton # 2 <br>
-Tue, Sep. 12 (sec. 6)
+Recitation # 2 <br> 
+Mon, Sep. 18 (sec. 4) <br>
+Recitaton # 3 <br>
+Tue, Sep. 19 (sec. 6)
 
 
 </div>
@@ -22,11 +22,11 @@ Tue, Sep. 12 (sec. 6)
 
 Project 1 discussion. <br><br>
 
-Download source code fore Java [OpenJDK 8](code/openjdk_8.zip). <br><br>
- 
 
-[_Finding code responsible for behavior_ activity](https://goo.gl/uMqUhE) 
-
+_Bullet Proof Code_ activity. 
+<!-- 
+[_Bullet Proof Code_ activity](https://goo.gl/e4Kxpq) 
+-->
 
 </p>
 </div>
