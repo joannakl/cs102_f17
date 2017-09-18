@@ -9,7 +9,7 @@
 -->
 <div class="column_date">
 
-Class # 3 <br> 
+Class # 5 <br> 
 Tue, Sep. 19 (sec. 3)<br> 
 Wed, Sep. 20 (sec. 5)
 
