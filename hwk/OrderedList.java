@@ -17,7 +17,7 @@ package project2;
 
 public interface OrderedList<E extends Comparable<E>> extends Cloneable {
     
-	/**
+    /**
      * Adds the specified element to  this list in a sorted order. 
      *
      * <p>The element added must implement Comparable<E> interface. This list 
@@ -29,22 +29,22 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      *         does not implement Comparable<E> 
      * @throws NullPointerException if the specified element is null
      */
-	public boolean add(E e); 
-	
+    public boolean add(E e); 
+    
     /**
      * Removes all of the elements from this list.
      * The list will be empty after this call returns.
      */
-	public void clear(); 
-	
+    public void clear(); 
+    
     /**
      * Returns a shallow copy of this list. (The elements
      * themselves are not cloned.)
      *
      * @return a shallow copy of this list instance
      */
-	public Object clone(); 
-	
+    public Object clone(); 
+    
     /**
      * Returns <tt>true</tt> if this list contains the specified element.
      *
@@ -54,8 +54,8 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      *         is incompatible with this list
      * @throws NullPointerException if the specified element is null 
      */
-	public boolean contains(Object o); 
-	
+    public boolean contains(Object o); 
+    
     /**
      * Compares the specified object with this list for equality.  Returns
      * {@code true} if and only if the specified object is also a list, both
@@ -68,8 +68,8 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      * @param o the object to be compared for equality with this list
      * @return {@code true} if the specified object is equal to this list
      */
-	public boolean equals(Object o); 
-	
+    public boolean equals(Object o); 
+    
     /**
      * Returns the element at the specified position in this list.
      *
@@ -79,7 +79,7 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      * <tt>(index < 0 || index >= size())</tt>
      */
     public E get(int index);
-	
+    
     /**
      * Returns the index of the first occurrence of the specified element
      * in this list, or -1 if this list does not contain the element.
@@ -88,8 +88,8 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      * @return the index of the first occurrence of the specified element in
      *         this list, or -1 if this list does not contain the element
      */
-	public int indexOf (Object o); 
-	
+    public int indexOf (Object o); 
+    
     /**
      * Removes the element at the specified position in this list.  Shifts any
      * subsequent elements to the left (subtracts one from their indices if such exist).
@@ -100,9 +100,9 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      * @throws IndexOutOfBoundsException  if the index is out of range 
      * <tt>(index < 0 || index >= size())</tt>
      */
-	
-	public E remove (int index); 
-	
+    
+    public E remove (int index); 
+    
     /**
      * Removes the first occurrence of the specified element from this list,
      * if it is present.  If this list does not contain the element, it is
@@ -120,15 +120,15 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      * @throws NullPointerException if the specified element is null and this
      *         list does not permit null elements
      */
-	public boolean remove (Object o);
-	
+    public boolean remove (Object o);
+    
     /**
      * Returns the number of elements in this list.
      *
      * @return the number of elements in this list
      */
-	public int size(); 
-	
+    public int size(); 
+    
     /**
      * Returns a string representation of this list.  The string
      * representation consists of a list of the list's elements in the
@@ -139,6 +139,6 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      *
      * @return a string representation of this list
      */
-	public String toString(); 
+    public String toString(); 
 
 }
