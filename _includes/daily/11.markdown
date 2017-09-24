@@ -30,7 +30,8 @@ Singly linked list implemetnation design and operations.
 <div class="column_assign">
 <p markdown="block">
 
-
+- debugging methodologies and how to do it in Eclipse:
+[OpenDSA, sec. 3.5, 3.6](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/) (skip the _Debugging A Memory Pool_)
 
 </p>
 </div>
