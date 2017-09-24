@@ -10,8 +10,8 @@
 <div class="column_date">
 
 Class # 7 <br> 
-Tue, Sep. 19 (sec. 3)<br> 
-Wed, Sep. 20 (sec. 5)
+Tue, Sep. 26 (sec. 3)<br> 
+Wed, Sep. 27 (sec. 5)
 
 
 
@@ -20,11 +20,9 @@ Wed, Sep. 20 (sec. 5)
 <div class="column_materials">
 <p markdown="block">
 
-Finish with _Race_ examples, see [lecture01.zip](code/lecture01.zip). <br><br>
+Singly linked list implemetnation design and operations.
+<br><br>
 
-<!--
-Start with fundamental data structures: lists. 
--->
 
 </p>
 </div>

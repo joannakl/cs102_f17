@@ -28,8 +28,8 @@ creating linked structures using nodes.
 __Project 2__ (due Oct. 8 at 11:55pm)
 
 - [project specification](hwk/project2.pdf)
-- interface file: [OrderedList.java](hwk/OrderedList.java) 
-- interface documentation: [OrderedList<E> javadoc](hwk/proj2_docs/OrderedList.html)
+- interface file: [`OrderedList.java`](hwk/OrderedList.java) 
+- interface documentation: [`OrderedList<E>` javadoc](hwk/proj2_docs/OrderedList.html)
 - CSS color names [data file](hwk/color_list.txt) - this is an example of a file that your program should
 accept as a command line argument (keep in mind that your program might be tested with a different file) 
 

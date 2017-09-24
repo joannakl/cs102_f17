@@ -9,7 +9,7 @@
 -->
 <div class="column_date">
 
-Recitation # 3 <br> 
+Recitation # 2 <br> 
 Mon, Sep. 18 (sec. 4) <br>
 Recitaton # 3 <br>
 Tue, Sep. 19 (sec. 6)
@@ -22,11 +22,7 @@ Tue, Sep. 19 (sec. 6)
 
 Project 1 discussion. <br><br>
 
-
-_Bullet Proof Code_ activity. 
-<!-- 
 [_Bullet Proof Code_ activity](https://goo.gl/e4Kxpq) 
--->
 
 </p>
 </div>
