@@ -14,7 +14,10 @@ Mon, Sep. 25 (sec. 5)
 <p markdown="block">
 
 List ADT, array-based implementation of a list, 
-creating linked structures using nodes. 
+creating linked structures using nodes. <br><br>
+
+
+[Lecture 2 notes](notes/lecture02_Lists.pdf) <br><br>
 
 
 </p>
