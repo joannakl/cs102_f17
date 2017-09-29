@@ -1,0 +1,39 @@
+
+<div class="recitation">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+Recitation # 4 <br> 
+Mon, Oct. 2 (sec. 4) <br>
+Recitaton # 5 <br>
+Tue, Oct. 3 (sec. 6)
+
+
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+<br><br>
+
+
+_Debugging_ activity. 
+<!-- 
+[_Debugging_ activity](https://goo.gl/Reqwzx) 
+-->
+<br><br>
+[debugging1.zip](code/debugging1.zip)
+
+<br><br>
+[Example.java](code/Example.java)
+
+</p>
+</div>
+
+</div>

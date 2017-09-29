@@ -1,0 +1,28 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+Class # 8 <br> 
+Thu, Sep. 28 (sec. 3)<br>
+Mon, Oct. 2 (sec. 5)  
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+    
+</div>
