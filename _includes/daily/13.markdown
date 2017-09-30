@@ -30,7 +30,7 @@ _Debugging_ activity.
 <br><br>
 [debugging1.zip](code/debugging1.zip)
 
-<br><br>
+<br>
 [Example.java](code/Example.java)
 
 </p>

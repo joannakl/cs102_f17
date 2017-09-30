@@ -42,8 +42,10 @@ public interface OrderedList<E extends Comparable<E>> extends Cloneable {
      * themselves are not cloned.)
      *
      * @return a shallow copy of this list instance
+     * @throws CloneNotSupportedException - if the object's class does 
+     *         not support the Cloneable interface
      */
-    public Object clone(); 
+    public Object clone() throws CloneNotSupportedException; 
     
     /**
      * Returns <tt>true</tt> if this list contains the specified element.
