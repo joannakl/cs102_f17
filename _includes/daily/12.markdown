@@ -13,6 +13,9 @@ Mon, Oct. 2 (sec. 5)
 <div class="column_materials">
 <p markdown="block">
 
+Asymptotic analysis: how _fast_ is a function, String vs. StringBuilder performance, 
+Big-O notation, examples of algorithms with different performance: O(logN), O(N), O(NlogN), O(N^2). 
+
 
 
 </p>
@@ -20,6 +23,11 @@ Mon, Oct. 2 (sec. 5)
 
 <div class="column_assign">
 <p markdown="block">
+
+- start reading chapter 5
+
+- chapter 4 problems to work on (not submitted):4.2, 4.3, 4.6, 4.8-13, 4.22, 
+4.28-33, 4.40, 4.42, 4.45, 4.46, 4.47, 4.55, 4.56.  
 
 
 </p>

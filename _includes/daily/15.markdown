@@ -1,0 +1,35 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+
+Tue, Oct. 10 (sec. 3 lecture)<br>
+(sec. 5 lecture instead of recitation)  
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Recursion: simple examples, base case, recursive case, tracing recursion,
+iterative vs. recursive solutions 
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+- finish reading chapter 5
+
+- chapter 5 problems to work on (not submitted): 5.1-5, 5.7-10, 5.13, 5.16 (optional), 
+5.17, 5.18, 5.24-26   
+
+
+</p>
+</div>
+    
+</div>
