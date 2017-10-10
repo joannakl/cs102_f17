@@ -19,7 +19,12 @@ iterative vs. recursive solutions
 <br>
 
 
-[Lecture 3 notes](notes/lecture03_Recursion.pdf) <br><br>
+[Lecture 3 notes](notes/lecture03_Recursion.pdf) <br>
+[lecture 3 source code](code/lecture03.zip), 
+[processing library](code/core.jar) - for use with fractals 
+
+
+<br>
 
 
 
