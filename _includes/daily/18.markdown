@@ -9,7 +9,6 @@
 -->
 <div class="column_date">
 
-Tue, Oct. 17 (sec. 3 and 5)
 
 
 </div>
@@ -19,7 +18,13 @@ Tue, Oct. 17 (sec. 3 and 5)
 
 <br>
 
+Tue, Oct. 17 
+
 Midterm Exam. 
+
+sec. 3 at 11:00am in room 101 CIWW
+
+sec. 5 at 12:30pm in room 109 CIWW 
 
 <br>
 
