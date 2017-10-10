@@ -1,0 +1,37 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+Mon, Oct. 16 (sec. 5 lecture)<br>
+(sec. 3 lecture instead of recitation)
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Exam Q&A
+- come with questions/topics that you would like to be discussed.
+Post the questions on Piazza as a follow-up to the "Q&A for Exam" topic so we can prioritize more popular questions. 
+
+<br>
+<br>
+
+
+[sample exam](notes/midterm_sample.pdf) <br><br>
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+    
+</div>

@@ -1,5 +1,5 @@
 
-<div class="recitation">
+<div class="lecture1">
 
 <!--
 <div class="lecture1">
@@ -9,10 +9,9 @@
 -->
 <div class="column_date">
 
-Recitation # 4 <br> 
-Mon, Oct. 2 (sec. 4) <br>
-Recitaton # 5 <br>
-Tue, Oct. 3 (sec. 6)
+ 
+Wed, Oct. 11 (sec. 5) <br>
+Thu, Oct. 12 (sec. 3)
 
 
 </div>
@@ -22,20 +21,16 @@ Tue, Oct. 3 (sec. 6)
 
 <br><br>
 
+More on recursion. 
 
+</p>
+</div>
 
-[_Debugging_ activity](https://goo.gl/Reqwzx), 
-[debugging1.zip](code/debugging1.zip), 
-[Example.java](code/Example.java) 
-<br>
+<div class="column_assign">
+<p markdown="block">
 
-
-- debugging methodologies and how to do it in Eclipse:
-[OpenDSA, sec. 3.5, 3.6](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/) (skip the _Debugging A Memory Pool_)
-
-- [Using the Eclipse debugger](https://www.youtube.com/watch?v=9gAjIQc4bPU) by Norm Krumpe
-
-
+- [Coding Bat recursion 2 problems](http://codingbat.com/java/Recursion-2) - short recursive practice problems
+with tests to check them (these are slightly more challenging than the ones in the first set) 
 
 </p>
 </div>

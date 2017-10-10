@@ -15,6 +15,12 @@ Tue, Oct. 10 (sec. 3 lecture)<br>
 
 Recursion: simple examples, base case, recursive case, tracing recursion,
 iterative vs. recursive solutions 
+<br>
+<br>
+
+
+[Lecture 3 notes](notes/lecture03_Recursion.pdf) <br><br>
+
 
 
 </p>
@@ -27,6 +33,9 @@ iterative vs. recursive solutions
 
 - chapter 5 problems to work on (not submitted): 5.1-5, 5.7-10, 5.13, 5.16 (optional), 
 5.17, 5.18, 5.24-26   
+
+- [Coding Bat recursion 1 problems](http://codingbat.com/java/Recursion-1) - short recursive practice problems
+with tests to check them 
 
 
 </p>
