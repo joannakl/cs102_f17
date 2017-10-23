@@ -1,0 +1,46 @@
+
+<div class="recitation">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+Recitation <br> 
+Mon, Oct. 23 (sec. 4) <br>
+Tue, Oct. 24 (sec. 6)
+
+
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+<br><br>
+
+
+
+_TestDrivenDevelopment_ activity,
+<!--[_TestDrivenDevelopment_ activity](https://goo.gl/Reqwzx) 
+-->
+[Number.java](code/Number.java)
+<br>
+
+- [JUnit Vogella tutorial](http://www.vogella.com/tutorials/JUnit/article.html) 
+
+- Linda tutorial on TDD:
+[TDD intro](https://www.youtube.com/watch?v=QCif_-r8eK4) (available to anyone), 
+[full tutorial](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Test-Driven-Development/124398-2.html?org=nyu.edu) (NYU login required), 
+
+- [OpenDSA, ch. 3.9-11](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/junitstart.html)
+
+
+
+
+</p>
+</div>
+
+</div>

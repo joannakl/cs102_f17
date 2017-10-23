@@ -1,0 +1,47 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+
+
+Mon, Oct. 23 (sec. 5) <br>
+Tue, Oct. 24 (sec. 3) 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+Queue ADT. Array based and linked-list based implementation of the queue.
+
+
+<br>
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+* finish reading chapter 6 in GTG
+
+* start reading chapter 8 
+
+
+__Project 3__ (due Nov. 4 at 11:55pm)
+
+- [project specification](hwk/project3.pdf)
+- provided source code: [`project3.zip`](hwk/project3.zip) 
+- sample input files: [`maze01.txt`](hwk/maze01.txt),  [`maze02.txt`](hwk/maze02.txt)
+
+
+
+
+</p>
+</div>
+    
+</div>
