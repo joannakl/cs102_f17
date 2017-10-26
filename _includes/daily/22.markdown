@@ -1,0 +1,43 @@
+
+<div class="lecture1">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+ <br> 
+Wed, Oct. 25 (sec. 5) <br>
+Thu, Oct. 26 (sec. 3)  
+
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Introduction to trees. 
+<br><br>
+[Lecture 5 notes](notes/lecture05_TreesIntro.pdf) <br>
+
+
+
+
+<br><br>
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+    
+</div>
