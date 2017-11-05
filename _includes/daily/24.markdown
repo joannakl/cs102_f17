@@ -1,0 +1,44 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+
+
+Mon, Oct. 23 (sec. 5) <br>
+Tue, Oct. 24 (sec. 3) 
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+Binary trees. Definitions for a node in a binary tree and in a general tree.
+Counting number of nodes in trees (recursive implementation). Tree traversals. 
+
+<br>
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+* finish reading chapter 8 in GTG
+
+* chapter 8 problems to work on (not submitted): 8.1, 8.2, 8.5, 8.7, 8.8, 8.10, 
+8.11, 8.18, 8.19, 8.22, 8.36, 8.37, 8.41, 8.42, 8.45, 8.52, 8.59, 8.62, 8.65,   
+
+* start reading chapter 9 in GTG
+
+
+
+
+
+</p>
+</div>
+    
+</div>

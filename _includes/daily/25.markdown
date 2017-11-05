@@ -20,9 +20,9 @@ Thu, Oct. 26 (sec. 3)
 <div class="column_materials">
 <p markdown="block">
 
-Introduction to trees, terminology and definitions.
-<br><br>
-[Lecture 5 notes](notes/lecture05_TreesIntro.pdf) <br>
+Priority queue: definitions, applications and implementation considerations. <br>
+Heaps as implementation of a priority queue: max-heap, min-heap, order property, shape property, adding, removing, building a heap.<br><br>
+[Lecture 6 notes](notes/lecture06_PriorityQueues.pdf) <br>
 
 
 
@@ -36,6 +36,7 @@ Introduction to trees, terminology and definitions.
 <div class="column_assign">
 <p markdown="block">
 
+* start reading chapter 11 in GTG 
 
 </p>
 </div>

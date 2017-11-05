@@ -29,6 +29,9 @@ Queue ADT. Array based and linked-list based implementation of the queue.
 
 * finish reading chapter 6 in GTG
 
+* chapter 6 problems to work on (not submitted): 6.1, 6.3-5, 6.7, 6.9, 6.12, 6.17-20,
+6.26-29, 6.35-36, 6.38-39
+
 * start reading chapter 8 
 
 

@@ -23,9 +23,9 @@ Tue, Oct. 24 (sec. 6)
 
 
 
-_TestDrivenDevelopment_ activity,
-<!--[_TestDrivenDevelopment_ activity](https://goo.gl/Reqwzx) 
--->
+<!--_TestDrivenDevelopment_ activity,-->
+[_TestDrivenDevelopment_ activity](https://goo.gl/Reqwzx) , 
+
 [Number.java](code/Number.java)
 <br>
 

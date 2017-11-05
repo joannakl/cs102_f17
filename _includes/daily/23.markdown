@@ -1,0 +1,41 @@
+
+<div class="recitation">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+Recitation <br> 
+Mon, Oct. 30 (sec. 4) <br>
+Tue, Oct. 31 (sec. 6)
+
+
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+<br><br>
+
+
+
+_Binary Tree Traversals_ activity,
+<!--[_Binary Tree Traversals_ activity](https://goo.gl/t4kkPv) 
+-->
+<br>
+
+- [Binary trees as a recursive data structure](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/RecursiveDS.html ) 
+
+- [Binary tree traversals](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/BinaryTreeTraversal.html) 
+
+
+
+
+</p>
+</div>
+
+</div>
