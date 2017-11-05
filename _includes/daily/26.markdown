@@ -18,9 +18,6 @@ Mon, Nov. 6 (both sections) <br>
 <div class="column_recitation">
 <p markdown="block">
 
-<br><br>
-
-
 
 _Priority Queues and Interview Questions_ activity,
 <!--[_Priority Queues and Interview Questions_ activity](https://goo.gl/TmzGrC) 

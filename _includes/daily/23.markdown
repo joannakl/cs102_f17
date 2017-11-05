@@ -19,13 +19,12 @@ Tue, Oct. 31 (sec. 6)
 <div class="column_recitation">
 <p markdown="block">
 
-<br><br>
 
 
 
-_Binary Tree Traversals_ activity,
-<!--[_Binary Tree Traversals_ activity](https://goo.gl/t4kkPv) 
--->
+<!--_Binary Tree Traversals_ activity,-->
+[_Binary Tree Traversals_ activity](https://goo.gl/t4kkPv) ,
+
 <br>
 
 - [Binary trees as a recursive data structure](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/RecursiveDS.html ) 
