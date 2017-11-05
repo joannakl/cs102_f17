@@ -23,7 +23,7 @@ Tue, Oct. 31 (sec. 6)
 
 
 <!--_Binary Tree Traversals_ activity,-->
-[_Binary Tree Traversals_ activity](https://goo.gl/t4kkPv) ,
+[_Binary Tree Traversals_ activity](https://goo.gl/t4kkPv) , 
 
 <br>
 
