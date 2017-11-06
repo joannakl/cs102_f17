@@ -29,7 +29,7 @@ Starting with binary search trees.
 
 __Project 4__ (due Nov. 14 at 11:55pm)
 
-- [project instructions](hwk/project4.pdf)
+- [project instructions](hwk/proj4.pdf)
 - [`PriorityQueue.java`](hwk/PriorityQueue.java) 
 - [`HeapPriorityQueue.java`](hwk/HeapPriorityQueue.java)
 - [Answers template](https://goo.gl/p8ZUAH) - you do not have to use this teplate, but
