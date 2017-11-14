@@ -1,0 +1,41 @@
+
+<div class="lecture1">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+ <br> 
+Wed, Nov. 8 (sec. 5) <br>
+Thu, Nov. 9 (sec. 3)  
+
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Binary search trees. 
+
+
+
+<br><br>
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+* start reading chapter 11 in GTG 
+
+</p>
+</div>
+    
+</div>
