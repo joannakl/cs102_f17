@@ -36,7 +36,7 @@ __Project 5__ (due Dec. 7 at 11:55pm)
 - source code given: 
     - [`BST_Recursive.java`](hwk/proj5_code/BST_Recursive.java) 
     - [`Date.java`](hwk/proj5_code/Date.java)
-    - [split method](hwk/proj5_code/split_method) 
+    - [split method](hwk/proj5_code/split_method.java) 
 - sample data sets:
     - [2017 data - downloaded Nov. 18](hwk/proj5_data/NYPD_Motor_Vehicle_Collisions_2017.csv) (~40MB) 
     - [Nov. 2017 data - downloaded Nov. 18](hwk/proj5_data/NYPD_Motor_Vehicle_Collisions.csv)  (~2MB)
