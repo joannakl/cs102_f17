@@ -30,7 +30,7 @@ incorporating rotations into add/remove functions. <br><br>
 - start reading chapter 12 
  
 
-__Project 5)_ (due Dec. 7 at 11:55pm)
+__Project 5__ (due Dec. 7 at 11:55pm)
 
 - [project specifications](hwk/proj5.pdf)
 - source code given: 
