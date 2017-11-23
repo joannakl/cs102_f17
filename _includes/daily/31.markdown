@@ -10,8 +10,8 @@
 <div class="column_date">
 
  <br> 
-Wed, Nov. 8 (sec. 5) <br>
-Thu, Nov. 9 (sec. 3)  
+Wed, Nov. 15 (sec. 5) <br>
+Thu, Nov. 16 (sec. 3)  
 
 
 
@@ -20,8 +20,9 @@ Thu, Nov. 9 (sec. 3)
 <div class="column_materials">
 <p markdown="block">
 
-Binary search trees, definition, finding items in the tree, adding/removing
-from the tree. 
+Balanced binary search trees, methods for balancing an ordinary BST, 
+introduction to AVL trees, calculating height of nodes in a tree, AVL tree node 
+definition. 
 
 
 
@@ -34,7 +35,7 @@ from the tree.
 <div class="column_assign">
 <p markdown="block">
 
-* start reading chapter 11 in GTG 
+* chapter 11 problems to work on (not submitted): 11.1-6, 11.8-9, 11.11, 11.13, 11.28, 11.29, 11.33
 
 </p>
 </div>

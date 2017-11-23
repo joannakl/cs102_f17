@@ -10,8 +10,8 @@
 <div class="column_date">
 
 Recitation <br> 
-Mon, Nov. 13<br>
-Tue, Nov. 14<br>
+Mon, Nov. 20<br>
+Tue, Nov. 21<br>
 
 
 </div>
@@ -19,8 +19,9 @@ Tue, Nov. 14<br>
 <div class="column_recitation">
 <p markdown="block">
 
-[_Practice Problems: Binary Search Trees_ activity](https://goo.gl/zRJEai) 
 
+[_BST - Analyzing Incorrect Solutions to Problems_ activity](https://goo.gl/WBJKVw) 
+-->
 <br>
 
 </p>

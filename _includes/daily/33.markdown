@@ -1,0 +1,48 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+
+Mon, Nov. 20, <br>
+Tue, Nov. 21 
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Balance factor calculation, rebalancing the tree using RR, LL, RL and LR rotations,
+incorporating rotations into add/remove functions. <br><br>
+
+[AVL tree visualization](http://www.cs.usfca.edu/~galles/visualization/AVLtree.html) 
+
+
+<br>
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+ 
+- start reading chapter 12 
+ 
+
+__Project 5)_ (due Dec. 7 at 11:55pm)
+
+- [project specifications](hwk/proj5.pdf)
+- source code given: 
+    - [`BST_Recursive.java`](hwk/proj5_code/BST_Recursive.java) 
+    - [`Date.java`](hwk/proj5_code/Date.java)
+    - [split method](hwk/proj5_code/split_method) 
+- sample data sets:
+    - [2017 data - downloaded Nov. 18](hwk/proj5_data/NYPD_Motor_Vehicle_Collisions_2017.csv) (~40MB) 
+    - [Nov. 2017 data - downloaded Nov. 18](hwk/proj5_data/NYPD_Motor_Vehicle_Collisions.csv)  (~2MB)
+    - (you can dowload other smaller/larger data sets from [NYC Open Data site](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) 
+
+</p>
+</div>
+    
+</div>
