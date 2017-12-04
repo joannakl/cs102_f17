@@ -1,5 +1,5 @@
 
-<div class="lecture1">
+<div class="important">
 
 <!--
 <div class="lecture1">
@@ -10,17 +10,16 @@
 <div class="column_date">
 
  <br> 
-Wed, Dec. 13 (sec. 5) <br>
-Thu, Dec. 14 (sec. 3)  
-
-
+ 
 
 </div>
 
 <div class="column_materials">
 <p markdown="block">
 
-Q&amp;A for the final exam<br><br> 
+Final exams: <br>
+section 5: Dec. 18, Monday, 2:00-3:50 pm, room 109 CIWW <br>
+section 3: Dec. 19, Tuesday, 10:00-11:50 am, room 101 CIWW <br><br> 
 
 
 
