@@ -1,0 +1,35 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+
+Mon, Nov. 27, <br>
+Tue, Nov. 28 
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Merge sort.  <br><br>
+
+[Merge sort visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Mergesort.html) 
+
+
+<br>
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Reading: chapter 12  
+ 
+
+</p>
+</div>
+    
+</div>

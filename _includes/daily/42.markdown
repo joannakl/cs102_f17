@@ -1,0 +1,26 @@
+
+<div class="recitation">
+
+<div class="column_date">
+
+
+Tue, Dec. 12 (both classes)
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+
+_Mixed problems - review exercises_ activity
+
+<!--
+[_Mixed problems - review exercises_ activity]() 
+-->
+
+<br>
+
+
+</p>
+</div>
+    
+</div>

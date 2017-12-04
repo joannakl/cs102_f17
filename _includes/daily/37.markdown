@@ -1,0 +1,43 @@
+
+<div class="lecture1">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+ <br> 
+Wed, Nov. 29 (sec. 5) <br>
+Thu, Nov. 30 (sec. 3)  
+
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Quick sort <br><br> 
+
+
+[Quicksort visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Quicksort.html) 
+
+
+
+
+<br><br>
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+</p>
+</div>
+    
+</div>

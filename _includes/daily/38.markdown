@@ -1,0 +1,33 @@
+
+<div class="recitation">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+Recitation <br> 
+Mon, Nov. 27<br>
+Tue, Nov. 28<br>
+
+
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+_Sorts - practice_ activity
+
+<!--
+[_Sorts - practice_ activity](https://goo.gl/buv783) 
+-->
+
+<br>
+
+</p>
+</div>
+
+</div>

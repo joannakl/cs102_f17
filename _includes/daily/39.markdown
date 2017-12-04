@@ -1,0 +1,33 @@
+
+<div class="lecture2">
+
+<div class="column_date">
+
+
+Mon, Dec. 4, <br>
+Tue, Dec. 5 
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Finish with O(N logN) sorts. .  <br><br>
+
+
+<br>
+
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+- start reading chapter 10  
+ 
+
+</p>
+</div>
+    
+</div>

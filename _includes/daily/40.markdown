@@ -1,0 +1,41 @@
+
+<div class="lecture1">
+
+<!--
+<div class="lecture1">
+<div class="lecture2">
+<div class="recitation">
+<div class="important">
+-->
+<div class="column_date">
+
+ <br> 
+Wed, Dec. 6 (sec. 5) <br>
+Thu, Dec. 7 (sec. 3)  
+
+
+
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Introduction to hash tables<br><br> 
+
+
+
+
+
+<br><br>
+
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+</p>
+</div>
+    
+</div>
