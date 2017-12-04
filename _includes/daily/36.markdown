@@ -16,6 +16,9 @@ Merge sort.  <br><br>
 [Merge sort visualization](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Mergesort.html) 
 
 
+<br><br>
+[Lecture 8 notes](notes/lecture08_SearchingAndSorting.pdf) <br>
+
 <br>
 
 
