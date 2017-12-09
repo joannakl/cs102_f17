@@ -21,10 +21,8 @@ Thu, Oct. 19 (sec. 3)
 <p markdown="block">
 
 Stack ADT. Array based and linked-list based implementation of the stack.
-
-Lecture 4 notes will be available after project 3 due date. 
-<!-- [Lecture 4 notes](notes/lecture04_StacksQueues.pdf) <br>
---> 
+ 
+[Lecture 4 notes](notes/lecture04_StacksQueues.pdf) <br>
 <br><br>
 
 
