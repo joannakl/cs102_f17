@@ -9,13 +9,12 @@
 -->
 <div class="column_date">
 
-Recitation <br> 
 Mon, Dec. 11 (both classes)<br>
 
 
 </div>
 
-<div class="column_recitation">
+<div class="column_materials">
 <p markdown="block">
 
 Finish with basics of hash tables. <br> 
