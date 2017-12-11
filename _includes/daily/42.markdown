@@ -12,10 +12,35 @@ Tue, Dec. 12 (both classes)
 
 
 _Mixed problems - review exercises_ activity
+<br><br>
 
-<!--
-[_Mixed problems - review exercises_ activity]() 
--->
+Extra problem sets for practice (if you find any errors in the solutions, post a comment about it on Piazza):
+
+- [advanced Java topics](notes/problem_sets_DNHI/problem_set_01.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_01_sol.pdf)
+
+- [recursion](notes/problem_sets_DNHI/problem_set_02.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_02_sol.pdf)
+
+- [lists, stacks, queues](notes/problem_sets_DNHI/problem_set_03.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_03_sol.pdf)
+
+
+- [recursion](notes/problem_sets_DNHI/problem_set_02.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_02_sol.pdf)
+
+
+- [trees](notes/problem_sets_DNHI/problem_set_05.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_05_sol.pdf)
+
+- [searching and sorting](notes/problem_sets_DNHI/problem_set_06.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_06_sol.pdf)
+
+- [more trees and hash tables](notes/problem_sets_DNHI/problem_set_07.pdf), 
+  [with solutions](notes/problem_sets_DNHI/problem_set_07_sol.pdf)
+  
+  
+
 
 <br>
 

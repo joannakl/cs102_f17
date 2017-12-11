@@ -22,7 +22,23 @@ Thu, Dec. 14 (sec. 3)
 
 Q&amp;A for the final exam<br><br> 
 
-
+Topics covered"
+- advanced Java topics
+    - inheritance and polymorphism
+    - interfaces and abstract classes
+    - exception handling
+    - generics 
+- lists (array based and reference based implementation) 
+- stacks and queues (array based and reference based implementation)
+- algorithm analysis (big-O notation)
+- recursion
+- general trees
+- binary trees
+- priority queues and heaps
+- search trees
+    - binary search tree
+    - AVL trees 
+- hash tables 
 
 
 
