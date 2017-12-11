@@ -19,6 +19,8 @@ Mon, Dec. 11 (both classes)<br>
 
 Finish with basics of hash tables. <br> 
 
+ [Lecture 9: Hash tables](notes/lecture9_HashTables.pdf)
+
 </p>
 </div>
 
