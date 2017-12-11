@@ -17,8 +17,8 @@
 <div class="column_materials">
 <p markdown="block">
 
-Final exams: <br>
-section 5: Dec. 18, Monday, 2:00-3:50 pm, room 109 CIWW <br>
+Final exams: <br> <br>
+section 5: Dec. 18, Monday, 2:00-3:50 pm, room 109 CIWW <br> <br>
 section 3: Dec. 19, Tuesday, 10:00-11:50 am, room 101 CIWW <br><br> 
 
 
