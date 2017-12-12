@@ -26,10 +26,6 @@ Extra problem sets for practice (if you find any errors in the solutions, post a
   [with solutions](notes/problem_sets_DNHI/problem_set_03_sol.pdf)
 
 
-- [recursion](notes/problem_sets_DNHI/problem_set_02.pdf), 
-  [with solutions](notes/problem_sets_DNHI/problem_set_02_sol.pdf)
-
-
 - [trees](notes/problem_sets_DNHI/problem_set_05.pdf), 
   [with solutions](notes/problem_sets_DNHI/problem_set_05_sol.pdf)
 
